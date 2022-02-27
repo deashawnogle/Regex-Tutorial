@@ -85,11 +85,15 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 ## Author
-Screenshot captured for tutorial of Regex for Phone #
+Screenshot captured for tutorial of Regex for Phone # <br>
 If you have any question please contact me with below POC
 
 Daesang Ogle
 
+
+- Researched with below links <br>
+<a href = "regex101.com">regex101.com</a>
+<a href = "rexegg.com/regex-quickstart.html">rexegg</a>
 
 ## Contact 
 ------------------
