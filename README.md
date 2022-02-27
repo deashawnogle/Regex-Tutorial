@@ -34,7 +34,9 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 <img src ="./Assets/Regex Tutorial.png">
 
+Screenshot for Regex Tutorial, tested with below link. <br>
 
+<a href = "regexr.com">regexr.com</a> 
 
 ## Table of Content
 - Groups and Ranges
