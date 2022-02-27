@@ -1,10 +1,10 @@
 # Regex
 
 ## Table of Contents
-- [User-Story] (#userStory)
-- [Regex-Tutorial] (#regexTutorial)
-- [Table-of-content] (#tableContent)
-- [Contact] (#contact)
+- [User Story] (#userStory)
+- [Regex Tutorial] (#regexTutorial)
+- [Table of content] (#tableContent)
+- [Contact ] (#contact)
 
 ## User Story <a href ="userStory"></a>
 
@@ -36,17 +36,17 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Table of Content <a href ="tableContent"></a>
 - Groups and Ranges
-```
+
 | Charater | Meaning |
 | shift+\ (Back Slash) | Or |
 | () | Group |
 | [] | Charset, any character in parentheses |
 | [^] | Negative charset |
 | (?:) | Non-capturing Group |
-```
+
 
 - Quantifiers
-```
+
 | Charater | Meaning |
 | ? | Zero or One |
 | * | Zero or More |
@@ -54,18 +54,19 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 | {+} | exactly N times |
 | {min,} | min |
 | {min,max} | min and max |
-```
+
 
 - Boundary-type
-```
+
 | Charater | Meaning |
 | \b | Word Boundary |
 | \B | Not a word boundary |
 | ^ | start of string or start of line |
 | $ | end of string or end of line |
-```
+
+
 - Character classes
-```
+
 | Charater | Meaning |
 | \ | Escapes a special character |
 | . | Any Charater except line break |
@@ -75,7 +76,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 | \W | one character that is not a word |
 | \s | Most engines: whitespace character |
 | \S | one character that is not a whitespace |
-```
+
 
 
 ## Contact <a href = "contact"></a>
