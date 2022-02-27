@@ -1,12 +1,12 @@
 # Regex
 
 ## Table of Contents
-- [User Story] (#userStory)
-- [Regex Tutorial] (#regexTutorial)
-- [Table of content] (#tableContent)
-- [Contact ] (#contact)
+- [User Story] (#User-Story)
+- [Regex Tutorial] (#Regex-Tutorial)
+- [Table of content] (#Table-of-Content)
+- [Contact] (#Contact)
 
-## User Story <a href ="userStory"></a>
+## User Story 
 
 
 ```md
@@ -29,9 +29,9 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
-## Regex Tutorial for Phone# <a href = "regexTutorial"></a>
+## Regex Tutorial
 
-<img src ="./Assets/Regex Tutorial.png>
+<img src ="./Assets/Regex Tutorial.png">
 
 
 
@@ -84,7 +84,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 
-## Contact  <a href = "contact"></a>
+## Contact 
 ------------------
 Github account : deashawnogle<br>
 Email : deashawnogle@gmail.com<br>
