@@ -1,10 +1,10 @@
 # Regex
 
 ## Table of Contents
-- [User Story] (#User-Story)
-- [Regex Tutorial] (#Regex-Tutorial)
-- [Table of content] (#Table-of-Content)
-- [Contact] (#Contact)
+- [User Story] (#user-story)
+- [Regex Tutorial] (#regex-tutorial)
+- [Table of content] (#table-of-content)
+- [Contact] (##contact)
 
 ## User Story 
 
