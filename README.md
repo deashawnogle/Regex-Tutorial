@@ -1,11 +1,11 @@
 # Regex
 
 ## List
-[User Story](#user-story)
-[Regex Tutorial](#regex-tutorial)
-[Table of content](#table-of-content)
-[Author](#author)
-[Contact](#contact)
+- [User Story](#user-story)
+- [Regex Tutorial](#regex-tutorial)
+- [Table of content](#table-of-content)
+- [Author](#author)
+- [Contact](#contact)
 
 ## User Story 
 
