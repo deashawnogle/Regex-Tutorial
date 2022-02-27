@@ -31,55 +31,60 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Regex Tutorial for Phone# <a href = "regexTutorial"></a>
 
+<img src ="./Assets/Regex Tutorial.png>
 
 
 
 ## Table of Content <a href ="tableContent"></a>
 - Groups and Ranges
 
-| Charater | Meaning |
-| shift+\ (Back Slash) | Or |
-| () | Group |
-| [] | Charset, any character in parentheses |
-| [^] | Negative charset |
-| (?:) | Non-capturing Group |
+|Charater|Meaning|
+|-----|-----|
+|shift+\ (Back Slash)|Or|
+|()|Group|
+|[]|Charset, any character in parentheses|
+|[^]|Negative charset|
+|(?:)|Non-capturing Group|
 
 
 - Quantifiers
 
-| Charater | Meaning |
-| ? | Zero or One |
-| * | Zero or More |
-| + | One or More |
-| {+} | exactly N times |
-| {min,} | min |
-| {min,max} | min and max |
+|Charater|Meaning|
+|-----|-----|
+|?|Zero or One|
+|*|Zero or More|
+|+|One or More|
+|{+}|exactly N times|
+|{min,}|min|
+|{min,max}|min and max|
 
 
 - Boundary-type
 
-| Charater | Meaning |
-| \b | Word Boundary |
-| \B | Not a word boundary |
-| ^ | start of string or start of line |
-| $ | end of string or end of line |
+|Charater|Meaning|
+|-----|-----|
+|\b|Word Boundary|
+|\B|Not a word boundary|
+|^|start of string or start of line|
+|$|end of string or end of line|
 
 
 - Character classes
 
-| Charater | Meaning |
-| \ | Escapes a special character |
-| . | Any Charater except line break |
-| \d | most engines: one digit from 0 to 9 |
-| \D | One character that is not a digit as defined by your engine |
-| \w | most engines: word chracters |
-| \W | one character that is not a word |
-| \s | Most engines: whitespace character |
-| \S | one character that is not a whitespace |
+|Charater|Meaning|
+|-----|-----|
+|\|Escapes a special character|
+|.|Any Charater except line break|
+|\d|most engines: one digit from 0 to 9|
+|\D|One character that is not a digit as defined by your engine|
+|\w|most engines: word chracters|
+|\W|one character that is not a word|
+|\s|Most engines: whitespace character|
+|\S|one character that is not a whitespace|
 
 
 
-## Contact <a href = "contact"></a>
+## Contact  <a href = "contact"></a>
 ------------------
 Github account : deashawnogle<br>
 Email : deashawnogle@gmail.com<br>
