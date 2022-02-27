@@ -92,7 +92,7 @@ Daesang Ogle
 
 
 - Researched with below links <br>
-<a href = "regex101.com">regex101.com</a>
+<a href = "regex101.com">regex101.com</a> <br>
 <a href = "rexegg.com/regex-quickstart.html">rexegg</a>
 
 ## Contact 
