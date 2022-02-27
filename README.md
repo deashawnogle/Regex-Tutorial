@@ -1,6 +1,6 @@
 # Regex
 
-## Table of Contents
+## List
 - [User Story] #user-story
 - [Regex Tutorial] #regex-tutorial
 - [Table of content] #table-of-content
@@ -35,7 +35,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 
-## Table of Content <a href ="tableContent"></a>
+## Table of Content
 - Groups and Ranges
 
 |Charater|Meaning|
